@@ -1,0 +1,10 @@
+p{
+    color: goldenrod;
+    border: 1px; color: blue;
+    width: 100%;
+}
+
+input[type="text"]{
+    background-color: yellowgreen;
+    text-emphasis-color: blue;
+}
